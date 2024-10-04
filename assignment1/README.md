@@ -1,8 +1,8 @@
 ## Assignment 1
 Assignment 1 description  
 
-[Repository README link)[../README.md]  
-(Assignment 1 Code link)[assignment01_example.py]    
+[Repository README link](../README.md)  
+[Assignment 1 Code link](assignment01_example.py)   
 
 Code snipped for changing states in the program:  
 
