@@ -17,3 +17,8 @@ Code snipped for changing states in the program:
 ```
 Image link example:
 ![led circuit](led_blink_bb.png)
+
+List example
+* item 1
+* item 2
+* item 3
