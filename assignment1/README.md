@@ -1,2 +1,13 @@
 ## Assignment 1
-Assignment 1 description
+Assignment 1 description  
+Code snipped for changing states in the program:  
+
+```Python
+# conditions for changing from START to WAITING and RUN states:
+  if program_state == 'START': # or program_state == 'WAITING' or program_state == 'RUN':
+    #if input_pin_val == True:
+    if input_pin.value() == True: # input pin is high
+      set_program_state('WAITING')
+    else:
+      set_program_state('RUN')
+```
