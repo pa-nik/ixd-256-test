@@ -15,3 +15,5 @@ Code snipped for changing states in the program:
     else:
       set_program_state('RUN')
 ```
+Image link example:
+![led circuit](led_blink_bb.png)
