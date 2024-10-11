@@ -23,4 +23,6 @@ List example
 * item 2
 * item 3
 
-https://github.com/Dianadotdotdot/Adv_Prototyping/blob/main/Assignment/recording.mov
+<video src="https://github.com/Dianadotdotdot/Adv_Prototyping/blob/main/Assignment/recording.mov" controls="controls" style="max-width: 730px;">
+</video>
+
